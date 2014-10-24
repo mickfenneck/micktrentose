@@ -67,7 +67,7 @@ article {
 #web {
   margin: 0px;
   height: 80%;
-  background: url(../img/blog.jpg) no-repeat center center fixed;
+  background: url(../img/startup.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -77,7 +77,7 @@ article {
 #data {
   margin: 0px;
   height: 80%;
-  background: url(../img/things.jpg) no-repeat center center fixed;
+  background: url(../img/graph.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -86,7 +86,7 @@ article {
 #art {
   margin: 0px;
   height: 80%;
-  background: url(../img/rasp.jpg) no-repeat center center fixed;
+  background: url(../img/fire.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -95,7 +95,7 @@ article {
 #deliverables {
   margin: 0px;
   height: 80%;
-  background: url(../img/trips.jpg) no-repeat center center fixed;
+  background: url(../img/deliv.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -105,7 +105,7 @@ article {
 #contact {
   margin: 0px;
   height: 80%;
-  background: url(../img/contact.jpg) no-repeat center center fixed;
+  background: url(../img/cont.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
