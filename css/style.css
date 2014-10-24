@@ -31,9 +31,12 @@ h2,h3
     text-transform:uppercase;
     color: white;
 }
-.apice {
-  vertical-align: super;
+
+#logo {
+    width:450px;
+    height:auto;
 }
+
 .row {
   margin: 0px;
   padding-top: 49px;
@@ -125,7 +128,6 @@ article {
     text-decoration:none;
 }
 
-#introtesto,
 #webtesto,
 #datatesto,
 #arttesto,
@@ -135,8 +137,10 @@ article {
  {
   background: rgba(27, 27, 27, 0.83);
 }
+
 #introtesto {
 margin-top:30px;
+    background: rgba(27, 27, 27, 0.4);
 }
 
 #workcontainer {
@@ -269,4 +273,9 @@ a {
         padding-top: 10px;
         padding-bottom: 10px;
     }
+#logo {
+    width:300px;
+    height:auto;
+}
+
 }
